@@ -35,7 +35,7 @@
 <p align="left">
   <strong>Base de Datos y Cloud:</strong><br>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,docker,kubernetes,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,kubernetes,aws,gcp" />
   </a>
 </p>
 
